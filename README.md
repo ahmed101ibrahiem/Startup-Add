@@ -79,7 +79,7 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>⚡️Splash Screens</em></strong></h3>
 </summary>
 <div align="center">
-    <img src="./screenshots/Splash Screen OnBoarding/SplashScreen.png">
+    <img src="screenshots/Auth/Login.jpg">
    <img src="./screenshots/Splash Screen OnBoarding/OnBoarding1.png">
    <img src="./screenshots/Splash Screen OnBoarding/OnBoarding2.png">
    <img src="./screenshots/Splash Screen OnBoarding/OnBoarding3.png">
@@ -90,7 +90,7 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>🔒 User Authentication</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/Auth/Login.png">
+   <img src="./screenshots/Auth/Login.jpg">
    <img src="./screenshots/Auth/Signup.png">
    <img src="./screenshots/Auth/ForgotPassword.png">
    <img src="./screenshots/Auth/ResetPassword.png">
