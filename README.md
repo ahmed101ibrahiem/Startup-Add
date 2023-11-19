@@ -1,12 +1,9 @@
-# Startup-Add
-https://github.com/SoftwareHouseR2/incubationMA.git
 
 
 <div align="center">
-    <h1 align='center'><i>Startup-App : Orange digital center App</i></h1>
+    <h1 align='center'><i>Cocoon : Orange Learning Solution App</i></h1>
 </div>
 
-[![Watch the Full App promo]((https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/71b188b6-53c7-478b-8dfa-5aa44e0e171e))](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/407528a9-e2dc-4bd7-b6f3-d41ba2ecb010)
 
 <details open="open">
 <summary>
@@ -33,9 +30,15 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <h2 href="#packages-used">📦 Packages used : </h2>
  <ul>
     <li> equatable:</li>
+    <li>table_calendar:</li>
+   <li>dashed_circular_progress_bar:</li>
+   <li>flutter_launcher_icons:</li>
    <li>intl:</li>
    <li>flutter_svg:</li>
    <li>font_awesome_flutter:</li>
+   <li>flutter_pw_validator:</li>
+   <li>intl_phone_number_input:</li>
+   <li>carousel_slider:</li>
    <li>google_fonts:</li>
    <li>shimmer:</li>
    <li>permission_handler:</li>
@@ -43,21 +46,26 @@ https://github.com/SoftwareHouseR2/incubationMA.git
    <li>dots_indicator:</li>
    <li>fluttertoast:</li>
    <li>flutter_screenutil:</li>
+   <li>smooth_page_indicator:</li>
    <li>url_launcher:</li>
+   <li>convex_bottom_bar:</li>
+   <li>card_swiper:</li>
+  <li>timeline_list: </li>
    <li>contained_tab_bar_view:</li>
+   <li>easy_localization:</li>
    <li>flutter_windowmanager:</li>
    <li>geolocator:</li>
-   <li>flutter_datetime_picker:</li>
+   <li>google_maps_flutter:</li>
    <li>bloc:</li>
    <li>flutter_bloc:</li>
    <li>path_provider:</li>
    <li>shared_preferences:</li>
    <li>dio:</li>
    <li>curl_logger_dio_interceptor:</li>
-   <li>flutter_screenutil:</li>
+   <li>socket_io_client:</li>
    <li>sqflite:</li>
-   <li>shimmer: </li>
-   <li>dots_indicator:</li>
+   <li>timezone: </li>
+   <li>liquid_progress_indicator_v2:</li>
  </ul>
 <hr>
 
@@ -69,17 +77,10 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>⚡️Splash Screens</em></strong></h3>
 </summary>
 <div align="center">
-    <img src="screenshots/Auth/Login.jpg">
-   <img src="./screenshots/startup-login.jpg">
-   <img src="./screenshots/investor-login">
-   <img src="screenshots/Auth/Signup As.jpg">
-      <img src="screenshots/Auth/Signup1.jpg">
-      <img src="screenshots/Auth/Signup2.jpg">
-      <img src="screenshots/Auth/Signup3.jpg">
-      <img src="screenshots/Auth/signup-ceo.jpg">
-          <img src="screenshots/Auth/signup-startup.jpg">
-      <img src="screenshots/Auth/signup-startup3.jpg">
-
+    <img src="./screenshots/Splash Screen OnBoarding/SplashScreen.png">
+   <img src="./screenshots/Splash Screen OnBoarding/OnBoarding1.png">
+   <img src="./screenshots/Splash Screen OnBoarding/OnBoarding2.png">
+   <img src="./screenshots/Splash Screen OnBoarding/OnBoarding3.png">
 </div>
 
 <summary>
@@ -87,7 +88,7 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>🔒 User Authentication</em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/Auth/Login.jpg">
+   <img src="./screenshots/Auth/Login.png">
    <img src="./screenshots/Auth/Signup.png">
    <img src="./screenshots/Auth/ForgotPassword.png">
    <img src="./screenshots/Auth/ResetPassword.png">
