@@ -70,8 +70,8 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 </summary>
 <div align="center">
     <img src="screenshots/Auth/Login.jpg">
-   <img src="screenshots/startup-login.jpg">
-   <img src="screenshots/investor-login">
+   <img src="screenshots/Auth/startup-login.jpg">
+   <img src="screenshots/Auth/investor-login">
    <img src="screenshots/Auth/Signup As.jpg">
       <img src="screenshots/Auth/Signup1.jpg">
       <img src="screenshots/Auth/Signup2.jpg">
