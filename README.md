@@ -70,9 +70,16 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 </summary>
 <div align="center">
     <img src="screenshots/Auth/Login.jpg">
-   <img src="./screenshots/Splash Screen OnBoarding/OnBoarding1.png">
-   <img src="./screenshots/Splash Screen OnBoarding/OnBoarding2.png">
-   <img src="./screenshots/Splash Screen OnBoarding/OnBoarding3.png">
+   <img src="./screenshots/startup-login.jpg">
+   <img src="./screenshots/investor-login">
+   <img src="screenshots/Auth/Signup As.jpg">
+      <img src="screenshots/Auth/Signup1.jpg">
+      <img src="screenshots/Auth/Signup2.jpg">
+      <img src="screenshots/Auth/Signup3.jpg">
+      <img src="screenshots/Auth/signup-ceo.jpg">
+          <img src="screenshots/Auth/signup-startup.jpg">
+      <img src="screenshots/Auth/signup-startup3.jpg">
+
 </div>
 
 <summary>
