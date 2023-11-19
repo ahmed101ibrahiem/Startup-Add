@@ -69,7 +69,20 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>⚡️Splash Screens</em></strong></h3>
 </summary>
 <div align="center">
-    <img src="screenshots/Auth/Login.jpg">
+    <img src="screenshots/Auth/Splash Screen0.jpg">
+    <img src="screenshots/Auth/SplashScreen.jpg">
+    <img src="screenshots/Auth/onboard1.jpg">
+     <img src="screenshots/Auth/onboard2.jpg">
+     <img src="screenshots/Auth/Splash Screen0.jpg">
+     <img src="screenshots/Auth/onboard3.jpg">
+</div>
+
+<summary>
+<h3 style="display:inline">
+<strong><em>🔒 User Authentication</em></strong></h3>
+</summary>
+<div align="center">
+     <img src="screenshots/Auth/Login.jpg">
    <img src="screenshots/Auth/startup-login.jpg">
    <img src="screenshots/Auth/investor-login">
    <img src="screenshots/Auth/Signup As.jpg">
@@ -79,19 +92,6 @@ https://github.com/SoftwareHouseR2/incubationMA.git
       <img src="screenshots/Auth/signup-ceo.jpg">
           <img src="screenshots/Auth/signup-startup.jpg">
       <img src="screenshots/Auth/signup-startup3.jpg">
-
-</div>
-
-<summary>
-<h3 style="display:inline">
-<strong><em>🔒 User Authentication</em></strong></h3>
-</summary>
-<div align="center">
-   <img src="./screenshots/Auth/Login.jpg">
-   <img src="./screenshots/Auth/Signup.png">
-   <img src="./screenshots/Auth/ForgotPassword.png">
-   <img src="./screenshots/Auth/ResetPassword.png">
-   <img src="./screenshots/Auth/VerifyYourEmail.png">    
 </div>
 
 <summary>
