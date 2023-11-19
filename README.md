@@ -69,12 +69,12 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>⚡️Splash Screens</em></strong></h3>
 </summary>
 <div align="center">
-    <img src="screenshots/Auth/Splash Screen0.jpg">
-    <img src="screenshots/Auth/SplashScreen.jpg">
-    <img src="screenshots/Auth/onboard1.jpg">
-     <img src="screenshots/Auth/onboard2.jpg">
-     <img src="screenshots/Auth/Splash Screen0.jpg">
-     <img src="screenshots/Auth/onboard3.jpg">
+    <img src="./screenshots/Splash Screen OnBoarding/Splash Screen0.jpg">
+    <img src="screenshots/Splash Screen OnBoarding/SplashScreen.jpg">
+    <img src="screenshots/Splash Screen OnBoarding/onboard1.jpg">
+     <img src="screenshots/Splash Screen OnBoarding/onboard2.jpg">
+     <img src="screenshots/Splash Screen OnBoarding/Splash Screen0.jpg">
+     <img src="screenshots/Splash Screen OnBoarding/onboard3.jpg">
 </div>
 
 <summary>
