@@ -80,19 +80,18 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <h3 style="display:inline">
 <strong><em>🔒 User Authentication</em></strong></h3>
 </summary>
-<div align="center">
-     <img src="screenshots/Auth/Login.jpg">
-   <img src="screenshots/Auth/startup-login.jpg">
-   <img src="screenshots/Auth/investor-login">
-   <img src="screenshots/Auth/Signup As.jpg">
-      <img src="screenshots/Auth/Signup1.jpg">
-      <img src="screenshots/Auth/Signup2.jpg">
-      <img src="screenshots/Auth/Signup3.jpg">
-      <img src="screenshots/Auth/signup-ceo.jpg">
-          <img src="screenshots/Auth/signup-startup.jpg">
-      <img src="screenshots/Auth/signup-startup3.jpg">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="screenshots/Auth/Login.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/startup-login.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/investor-login" style="width: 30%;">
+    <img src="screenshots/Auth/Signup As.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/Signup1.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/Signup2.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/Signup3.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/signup-ceo.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/signup-startup.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/signup-startup3.jpg" style="width: 30%;">
 </div>
-
 <summary>
 <h3 style="display:inline">
 <strong><em>📌 Pick Interest</em></strong></h3>
