@@ -33,8 +33,6 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <h2 href="#packages-used">📦 Packages used : </h2>
  <ul>
     <li> equatable:</li>
-   <li>flutter_windowmanager:</li>
-   <li>flutter_launcher_icons:</li>
    <li>intl:</li>
    <li>flutter_svg:</li>
    <li>font_awesome_flutter:</li>
