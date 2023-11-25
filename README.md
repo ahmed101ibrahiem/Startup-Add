@@ -112,10 +112,10 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>🙍🏼‍♂️ Profile</em></strong></h3>
 </summary>
 <div align="center">
-    <img src="screenshots/profile/edit_profile.jpg" style="width: 40%;">
-    <img src="screenshots/profile/edit-profile.jpg" style="width: 40%;">
-    <img src="screenshots/profile/dark-edit-profile.jpg" style="width: 44%;">
-    <img src="screenshots/profile/dark-edit-bank-account.jpg" style="width: 44%;">
+    <img src="screenshots/profile/edit_profile.jpg" style="width: 20%;">
+    <img src="screenshots/profile/edit-profile.jpg" style="width: 20%;">
+    <img src="screenshots/profile/dark-edit-profile.jpg" style="width: 20%;">
+    <img src="screenshots/profile/dark-edit-bank-account.jpg" style="width: 20%;">
 
 </div>
 
