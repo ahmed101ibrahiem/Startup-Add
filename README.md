@@ -80,10 +80,10 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>🔒 User Authentication</em></strong></h3>
 </summary>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="screenshots/Auth/Login.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/startup-login.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/Signup As.jpg" style="width: 30%;">
-     <img src="screenshots/Auth/signup-as.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/Login.jpg" style="width: 25%;">
+    <img src="screenshots/Auth/startup-login.jpg" style="width: 25%;">
+    <img src="screenshots/Auth/Signup As.jpg" style="width: 25%;">
+     <img src="screenshots/Auth/signup-as.jpg" style="width: 25%;">
     <img src="screenshots/Auth/Signup1.jpg" style="width: 30%;">
     <img src="screenshots/Auth/Signup2.jpg" style="width: 30%;">
     <img src="screenshots/Auth/Signup3.jpg" style="width: 30%;">
