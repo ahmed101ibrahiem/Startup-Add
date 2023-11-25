@@ -88,7 +88,6 @@ https://github.com/SoftwareHouseR2/incubationMA.git
     <img src="screenshots/Auth/Signup2.jpg" style="width: 30%;">
     <img src="screenshots/Auth/Signup3.jpg" style="width: 30%;">
     <img src="screenshots/Auth/signup-ceo.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/signup-startup.jpg" style="width: 30%;">
     <img src="screenshots/Auth/signup-startup3.jpg" style="width: 30%;">
 </div>
 <summary>
