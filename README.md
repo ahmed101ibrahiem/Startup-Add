@@ -90,6 +90,23 @@ https://github.com/SoftwareHouseR2/incubationMA.git
     <img src="screenshots/Auth/signup-ceo.jpg" style="width: 30%;">
     <img src="screenshots/Auth/signup-startup3.jpg" style="width: 30%;">
 </div>
+
+<summary>
+<h3 style="display:inline">
+<strong><em>🏠 Home</em></strong></h3>
+</summary>
+<div align="center">
+   <img src="screenshots/Home/home-startup.jpg" style="width: 30%;">
+       <img src="screenshots/Home/dark-home-screen.jpg" style="width: 30%;">
+   <img src="screenshots/Home/home_profile.jpg" style="width: 30%;">
+   <img src="screenshots/Home/dark-profile.jpg" style="width: 30%;">
+       <img src="screenshots/Home/home_profile.jpg" style="width: 30%;">
+   <img src="screenshots/Home/investor-home-screen.jpg" style="width: 30%;">
+   <img src="screenshots/Home/add-post.jpg" style="width: 30%;">
+    <img src="screenshots/Home/notification.jpg" style="width: 30%;">
+
+</div>
+
 <summary>
 <h3 style="display:inline">
 <strong><em>📌 Pick Interest</em></strong></h3>
@@ -97,14 +114,6 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <div align="center">
    <img src="./screenshots/Pick interest/Interests1.png">
     <img src="./screenshots/Pick interest/Interests2.png">
-</div>
-
-<summary>
-<h3 style="display:inline">
-<strong><em>🏠 Home</em></strong></h3>
-</summary>
-<div align="center">
-   <img src="./screenshots/home/Home.png">
 </div>
 
 <summary>
