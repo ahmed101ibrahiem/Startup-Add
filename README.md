@@ -80,15 +80,14 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>🔒 User Authentication</em></strong></h3>
 </summary>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="screenshots/Auth/Login.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/startup-login.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/Signup As.jpg" style="width: 30%;">
-     <img src="screenshots/Auth/signup-as.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/Signup1.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/Signup2.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/Signup3.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/signup-ceo.jpg" style="width: 30%;">
-    <img src="screenshots/Auth/signup-startup3.jpg" style="width: 30%;">
+    <img src="screenshots/Auth/Login.jpg" style="width: 20%;">
+    <img src="screenshots/Auth/startup-login.jpg" style="width: 20%;">
+    <img src="screenshots/Auth/Signup As.jpg" style="width: 20%;">
+     <img src="screenshots/Auth/signup-as.jpg" style="width: 20%;">
+    <img src="screenshots/Auth/Signup1.jpg" style="width: 20%;">
+    <img src="screenshots/Auth/Signup2.jpg" style="width: 20%;">
+    <img src="screenshots/Auth/Signup3.jpg" style="width: 20%;">
+    <img src="screenshots/Auth/signup-ceo.jpg" style="width: 20%;">
 </div>
 
 <summary>
@@ -121,20 +120,35 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 
 <summary>
 <h3 style="display:inline">
-<strong><em>⚔️ Challenges </em></strong></h3>
+<strong><em>☎️ Contact Us </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/Challenges/ChallangeDetails.png">
+    <img src="screenshots/contact us/contact-us.jpg" style="width: 25%;">
+    <img src="screenshots/contact us/contact-us-error.jpg" style="width: 25%;">
+
 </div>
 
 <summary>
 <h3 style="display:inline">
-<strong><em>📖 Course Details </em></strong></h3>
+<strong><em>👨🏻‍💻 User Information </em></strong></h3>
 </summary>
 <div align="center">
-   <img src="./screenshots/Course Details/CourseDetails1.png">
-    <img src="./screenshots/Course Details/CourseDetails2.png">
-    <img src="./screenshots/Course Details/CourseDetails3.png">
+     <img src="screenshots/information/edit-info-startup.jpg" style="width: 30%;">
+         <img src="screenshots/information/edit-info0.jpg" style="width: 30%;">
+         <img src="screenshots/information/edit-information.jpg" style="width: 30%;">
+     <img src="screenshots/information/edit-adress.jpg" style="width: 30%;">
+     <img src="screenshots/information/error-edit-adress.jpg" style="width: 30%;">
+
+</div>
+
+<summary>
+<h3 style="display:inline">
+<strong><em>🚩 Term& Condition </em></strong></h3>
+</summary>
+<div align="center">
+     <img src="screenshots/term&condition/term&condition1.jpg" style="width: 20%;">
+             <img src="screenshots/term&condition/term&condition0.jpg" style="width: 20%;">
+
 </div>
 
 ## 🔒 License <a name = "license"></a>
