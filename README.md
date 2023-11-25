@@ -146,8 +146,8 @@ https://github.com/SoftwareHouseR2/incubationMA.git
 <strong><em>🚩 Term& Condition </em></strong></h3>
 </summary>
 <div align="center">
-     <img src="screenshots/term&condition/term&condition1.jpg" style="width: 20%;">
-             <img src="screenshots/term&condition/term&condition0.jpg" style="width: 20%;">
+     <img src="screenshots/term&condition/term&condition1.jpg" style="width: 40%;">
+             <img src="screenshots/term&condition/term&condition0.jpg" style="width: 40%;">
 
 </div>
 
